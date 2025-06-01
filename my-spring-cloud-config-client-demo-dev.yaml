@@ -3,3 +3,5 @@ order:
   total-price: 1000
   count: 10
   account: jack
+info:
+  desc: '{cipher}bbf6c6ae3d16443322bede1c3531a2a554d885e3fb60fad941434a45eef19f6e'
