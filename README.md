@@ -1,1 +1,1 @@
-just test config-server
+# just test config-server
