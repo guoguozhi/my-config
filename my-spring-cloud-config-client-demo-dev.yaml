@@ -3,5 +3,3 @@ order:
   total-price: 1000
   count: 10
   account: jack
-info:
-  desc: dev分支info描述信息
