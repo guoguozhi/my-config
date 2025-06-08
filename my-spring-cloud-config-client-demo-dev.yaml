@@ -4,4 +4,4 @@ order:
   count: 10
   account: jack
 info:
-  desc: main分支info描述信息
+  desc: dev分支info描述信息
